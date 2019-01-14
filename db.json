@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "stream 3",
+      "description": "this is a stream too",
+      "id": 4
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "shouldn't see on form",
+      "userId": "105980661169484837362",
+      "id": 6
+    },
+    {
+      "title": "streaming component reuse",
+      "description": "refactored the streamcreate and added streamform",
+      "userId": "105980661169484837362",
+      "id": 7
+    }
+  ]
+}
